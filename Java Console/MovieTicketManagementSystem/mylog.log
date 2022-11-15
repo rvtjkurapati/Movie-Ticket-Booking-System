@@ -1,0 +1,129 @@
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Homepage Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Selected Register!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Program Exit
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Homepage Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Selected Register!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:selected  to continue
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Registration Sucess!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Homepage Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Selected Customer Login!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Confirming to continue (or) to Register
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Continued to Login
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Login Success
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Customer Menu Displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Selected to view movie list
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Movies list Displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Customer Menu Displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Selected Movie suggestion
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Suggestion Displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Customer Menu Displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Selected to view the ticket
+2022-10-22-main-ERROR-com.virtusa.mtms.presentation.CustomerMenu:No data Available
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Customer Menu Displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Selected to check check seat availability
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Seat availability displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Customer Menu Displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Selected to book a ticket
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Ticket Booked Sucessfully
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Customer Menu Displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Selected to view the ticket
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Customer Menu Displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Selected to Go Back to Previous Menu
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Confirming to continue (or) to Register
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.CustomerMenu:Continued to Login
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Homepage Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Selected Admin Login!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu: Admin Login Displayed!
+2022-10-22-main-ERROR-com.virtusa.mtms.presentation.AdminMenu:Admin Credentials were wrong
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Homepage Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Selected Admin Login!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu: Admin Login Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu: Admin Login Success!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu: Admin Menu Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected Admin User Management!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to add new Admin user!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Instructions displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Homepage Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Selected Admin Login!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu: Admin Login Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu: Admin Login Success!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu: Admin Menu Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected Admin User Management!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to add new Admin user!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Instructions displayed
+2022-10-22-main-ERROR-com.virtusa.mtms.presentation.AdminMenu: Details Incorrect
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected Admin User Management!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to add new Admin user!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Instructions displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu: Admin user added sucessfully!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected Admin User Management!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to display All Admin Users
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected Admin User Management!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to modify a admin
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Instructions displayed
+2022-10-22-main-WARN -com.virtusa.mtms.presentation.AdminMenu:Confirming to modify
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Mofification Sucess
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected Admin User Management!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to display All Admin Users
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected Admin User Management!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to add Admin by ID
+2022-10-22-main-WARN -com.virtusa.mtms.presentation.AdminMenu: Confirming to delete
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu: Admin user 8 deleted
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected Admin User Management!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to display All Admin Users
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected Admin User Management!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Searching Admin user by name
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:User displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected Admin User Management!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Searching Admin user by name
+2022-10-22-main-ERROR-com.virtusa.mtms.presentation.AdminMenu:No Data Available!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected Admin User Management!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to go back to previous menu
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu: Admin Menu Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:selected customer Management
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:customer management menu displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:selected to add new user
+2022-10-22-main-ERROR-com.virtusa.mtms.presentation.AdminMenu:new user details invalid
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:customer management menu displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to display all customers
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Displayed all customers
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:customer management menu displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:selected to add new user
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:new user added successfully
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:customer management menu displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to display all customers
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Displayed all customers
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:customer management menu displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to search user by name
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:user details displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:customer management menu displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to modify user
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Instructions displayed
+2022-10-22-main-WARN -com.virtusa.mtms.presentation.AdminMenu:confirming to modify
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:User Modify sucessful
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:customer management menu displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu: Admin Menu Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected Movie Management
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Movie Management Menu displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to display all movies
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:displayed all movies
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Movie Management Menu displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to Goback to previous menu
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu: Admin Menu Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected Booking Management
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Booking Management Menu Displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to show all booking details
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Booking details displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected Booking Management
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Booking Management Menu Displayed
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to go back to previous menu
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu: Admin Menu Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu:Selected to go back to previous menu
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Homepage Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Program Exit!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Homepage Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Selected Admin Login!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.AdminMenu: Admin Login Displayed!
+2022-10-22-main-ERROR-com.virtusa.mtms.presentation.AdminMenu:Admin Credentials were wrong
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Homepage Displayed!
+2022-10-22-main-INFO -com.virtusa.mtms.presentation.MainMenu:Program Exit!
